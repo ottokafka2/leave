@@ -1,1 +1,15 @@
 site_name: The moment
+site_url: https://ottokafka2.github.io/leave/
+nav:
+  - Home: index.md
+theme:
+  name: material
+  highlightjs: true
+  palette:
+    scheme: default
+    primary: blue grey
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
