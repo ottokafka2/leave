@@ -2,6 +2,9 @@ site_name: The moment
 site_url: https://ottokafka2.github.io/leave/
 nav:
   - Home: index.md
+  - Diaries:
+      - 2023:
+          - 我的倒计时: diaries/2023/auguest/one_day_home_away.md
 theme:
   name: material
   highlightjs: true
