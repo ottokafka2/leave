@@ -4,13 +4,14 @@ nav:
   - Home: index.md
   - Diaries:
       - 2023:
-          - 我的倒计时: diaries/2023/auguest/one_day_home_away.md
+          - Auguest:
+            - 我的倒计时: diaries/2023/auguest/one_day_home_away.md
 theme:
   name: material
   highlightjs: true
   palette:
     scheme: default
-    primary: blue grey
+    primary: deep orange
   features:
     - navigation.tabs
     - navigation.sections
