@@ -6,6 +6,7 @@ nav:
       - 2023:
           - Auguest:
             - 我的倒计时: diaries/2023/auguest/one_day_home_away.md
+            - 困境: diaries/2023/auguest/inescapable_dreams.md
 theme:
   name: material
   highlightjs: true
