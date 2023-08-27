@@ -7,6 +7,8 @@ nav:
           - Auguest:
             - 我的倒计时: diaries/2023/auguest/one_day_home_away.md
             - 困境: diaries/2023/auguest/inescapable_dreams.md
+            - 起飞: diaries/2023/auguest/depatures.md
+            - 多变的天气: diaries/2023/auguest/changeable_weather.md
 theme:
   name: material
   highlightjs: true
