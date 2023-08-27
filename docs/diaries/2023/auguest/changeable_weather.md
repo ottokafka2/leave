@@ -13,7 +13,7 @@ categories:
 我觉得这应该和我的顿感有关吧。
 今天去隔壁的公园跑步了，就像是居住很久的居民一样。
 实际上我来了才4天。
-I never feel like I belonged anywhere.
-In a way I feel adjustable to anywhere.
+I feel displaced anywhere.
+In some way, less displaced anywhere.
 
 ![rainbow](../../images/rainbow.jpeg)
