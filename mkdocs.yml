@@ -11,6 +11,9 @@ nav:
             - 多变的天气: diaries/2023/auguest/changeable_weather.md
           - September:
             - 错误: diaries/2023/september/mistakes.md
+      - 2024:
+          - January
+            - ATalk: diaries/2024/january/talk.md
 theme:
   name: material
   highlightjs: true
