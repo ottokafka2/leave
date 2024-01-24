@@ -12,8 +12,8 @@ nav:
           - September:
             - 错误: diaries/2023/september/mistakes.md
       - 2024:
-          - January
-            - ATalk: diaries/2024/january/talk.md
+          - January:
+            - A Talk: diaries/2024/january/talk.md
 theme:
   name: material
   highlightjs: true
