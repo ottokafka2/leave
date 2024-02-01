@@ -6,7 +6,7 @@ categories:
   - thoughts
 --->
 # 2024-01-24
-Starting from today, trying to keep on make diaries but in English not matter how
+Starting from today, trying to keep on make diaries but in English no matter how
 shitty my English is.
 
 I realise that no matter how old I am, even if I understand the wisdom of 
@@ -14,7 +14,7 @@ I realise that no matter how old I am, even if I understand the wisdom of
 I get panic. Huh. I guess that will always be who I am, always a child.
 
 As I am typing, `White Horse` is playing. This is my favorite Taylor Swift song. It is
-a odd choice since I don't think many people recognize this TS song. Even time I listen
+a odd choice since I don't think many people recognize this TS song. Every time I listen
 to this song, I feel like I am dragged into younger time when I was still in high school.
 I understand the fact that high school is, in some way, a nightmare. However, this feeling of
 nostalgia can not be erased. I always amazed by how my classmates being so innocent and peaceful,
@@ -22,7 +22,8 @@ they were not thinking about how to hurt people or what. The canteen was awful, 
  the winter and hot in the summer, the playground was so small and the dormitory was crawling with cockroaches.
 In the meantime, I missed when the sun was about to come down, I sit by the window in the classroom and watched
 people entering the school gate and talking. I missed when I walked in circles in the playground with my friends.
-I missed when the wind would go through the dormitory and brought everything into life.
+I missed when the wind would go through the dormitory and brought everything into life. And the canteen, ewwww. Sorry,
+ canteen is the worst.
 
 ## Talk
 
