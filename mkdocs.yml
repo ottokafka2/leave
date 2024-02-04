@@ -16,6 +16,7 @@ nav:
             - A Talk: diaries/2024/january/talk.md
           - Faburary:
             - The Office: diaries/2024/feburary/theOffice.md
+            - Monster: diaries/2024/feburary/monster.md
 theme:
   name: material
   highlightjs: true
