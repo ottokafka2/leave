@@ -1,6 +1,6 @@
 # 2024-02-04
 Loneliness came to me like a sniffing dog. I learn this from a book I am reading.
-I watch `Monster` by Hirokaru today and `The Holdovers` by Alexander Payne yesterday.
+I watch `Monster` by Koreeda today and `The Holdovers` by Alexander Payne yesterday.
 Both highly qualified movies.
 
 Monster gets me. Nostalgia came to me like a sniffing dog. I remember a friend back in primary schook.
@@ -53,8 +53,8 @@ with toilet.
 
 ## Our weakness, our strength
 I talked with Cici the day before yesterday. We could both agree, it was quite disappointing
-that we knew a lot in Chinese, but we could hardly translate our ideas into English. We loved Hirokaru,
-but we could never say to a foreigner that we liked Shizhiyuhe(Hirokaru's Chinese spelling). We had to try
+that we knew a lot in Chinese, but we could hardly translate our ideas into English. We loved Koreeda,
+but we could never say to a foreigner that we liked Shizhiyuhe(Koreeda's Chinese spelling). We had to try
 harder to remember those while others, even Dutch, only needed to remember their English names. It sounded almost like
 a bully hahaha. Anyways, We have already shared common ideas that the most important personalities, or qualities,
 are self-confidence and fearlessness. We could do nothing but go on.
