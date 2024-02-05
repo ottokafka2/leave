@@ -17,6 +17,7 @@ nav:
           - Faburary:
             - The Office: diaries/2024/feburary/theOffice.md
             - Monster: diaries/2024/feburary/monster.md
+            - Alter: diaries/2024/feburary/alter.md
 theme:
   name: material
   highlightjs: true
