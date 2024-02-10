@@ -42,8 +42,8 @@ Another girl was the same age as me. I adored her. She was also, in my judgement
 She reminded me my old time friend, who was also good at social but also compassionate enough to support others.
 
 I worried about both of them. One of them was too reclusive to easily being trapped into emotional landscape.
-Another one struggled with study and perfectionism. I felt empathetic for both of them as I went through and also
-I am going through the phases. This sentence occupied my mind every day: 'How I wished our days could be much better'.
+Another one struggled with study and perfectionism. I felt empathetic for both of them as I have experienced and also
+am currently going through similar phases. This sentence occupied my mind every day: 'How I wished our days could be much better'.
 I envied those sincerely enjoyed their life.
 
 ## Some details
