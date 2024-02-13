@@ -19,6 +19,7 @@ nav:
             - Monster: diaries/2024/feburary/monster.md
             - Alter: diaries/2024/feburary/alter.md
             - Year Of Dragon: diaries/2024/feburary/year_of_dragon.md
+            - Brilliant Weather: diaries/2024/feburary/brilliant_weather.md
 theme:
   name: material
   highlightjs: true

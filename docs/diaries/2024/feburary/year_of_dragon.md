@@ -26,7 +26,7 @@ at paying attention to others' feelings. I loved being around by them.
 I kind of bored by being me sometimes, sentimental. Even judging by the photo, you could see that I was kind of
 a outsider, which was a situation I had always stuck in. I was not being pitiful. I knew myself more and more each year.
 I was still learning. I observed, absorbed and digested. I was a good friend and good pal, but I did not
-know how to love someone. You could argue that it was common illness for all Chinese, of incapable of love and being loved.
+know how to love and be loved. You could argue that it was common illness for all Chinese, of incapable of love and being loved.
 Well, I guessed we all had to learn. Some of them in the picture, I did not think that was such a big issue(again, superficial
 observation). They were funny and brave enough to express love.
 
