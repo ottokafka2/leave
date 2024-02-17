@@ -20,6 +20,7 @@ nav:
             - Alter: diaries/2024/feburary/alter.md
             - Year Of Dragon: diaries/2024/feburary/year_of_dragon.md
             - Brilliant Weather: diaries/2024/feburary/brilliant_weather.md
+            - A lesson: diaries/2024/feburary/a_lesson.md
 theme:
   name: material
   highlightjs: true
