@@ -22,6 +22,7 @@ nav:
             - Brilliant Weather: diaries/2024/feburary/brilliant_weather.md
             - A lesson: diaries/2024/feburary/a_lesson.md
             - Rain Drop: diaries/2024/feburary/raindrop.md
+            - Birthday Party: diaries/2024/feburary/birthday.md
 theme:
   name: material
   highlightjs: true
