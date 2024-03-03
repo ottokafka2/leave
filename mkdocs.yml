@@ -23,6 +23,8 @@ nav:
             - A lesson: diaries/2024/feburary/a_lesson.md
             - Rain Drop: diaries/2024/feburary/raindrop.md
             - Birthday Party: diaries/2024/feburary/birthday.md
+          - March:
+            - Grandma: diaries/2024/march/grandma.md
 theme:
   name: material
   highlightjs: true
