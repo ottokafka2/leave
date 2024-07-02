@@ -25,6 +25,8 @@ nav:
             - Birthday Party: diaries/2024/feburary/birthday.md
           - March:
             - Grandma: diaries/2024/march/grandma.md
+          - July:
+            - Dependence: diaries/2024/july/dependence.md
 theme:
   name: material
   highlightjs: true
