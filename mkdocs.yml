@@ -27,6 +27,7 @@ nav:
             - Grandma: diaries/2024/march/grandma.md
           - July:
             - Dependence: diaries/2024/july/dependence.md
+            - Home House: diaries/2024/july/home_house.md
 theme:
   name: material
   highlightjs: true
