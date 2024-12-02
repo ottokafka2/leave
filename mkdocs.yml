@@ -29,6 +29,8 @@ nav:
             - Dependence: diaries/2024/july/dependence.md
             - Home House: diaries/2024/july/home_house.md
             - Miskloc: diaries/2024/july/volunteering.md
+          - December:
+              - Shadow: diaries/2024/december/shadow.md
 theme:
   name: material
   highlightjs: true
